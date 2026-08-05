@@ -59,6 +59,8 @@ This project was designed and developed by **Learn Alloid** as part of practical
 
 🌐 **Website:** https://learnalloid.com
 
+🌐 **Learn Alloid Projects:** https://learnalloidprojects.in
+
 💼 **LinkedIn:** https://linkedin.com/in/likith-pentakota-2292851a7
 
 💻 **GitHub:** https://github.com/likith-pentakota
